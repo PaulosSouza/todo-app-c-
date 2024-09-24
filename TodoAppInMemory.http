@@ -1,0 +1,6 @@
+@TodoAppInMemory_HostAddress = http://localhost:5186
+
+GET {{TodoAppInMemory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
